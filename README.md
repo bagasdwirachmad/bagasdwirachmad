@@ -1,29 +1,24 @@
-# <summary><strong>Hi there :wave: , I'm Goo!</strong></summary>
-Lifelong Learner, currently working as budagh kompeni.
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=goonesmile&label=Profile%20views&color=0e75b6&style=flat" alt="isrealodejobi" />
-</p>
+## 👋 Hi there! I'm Bagas Dwi Rachmad Roziqin
 
-### <summary><strong>Tools:</strong></summary>
-<p>
-    <img src="https://img.shields.io/badge/Text%20Editor-Visual%20Studio%20Code-blue?&logo=visual%20studio%20code&logoColor=blue" />
-</p>
+🔭 I’m currently working on:  
+Building Android apps and experimenting with real-time hand tracking using Python and OpenCV.
 
-### <summary><strong>Yosh!</strong></summary>
-<p>
-    - :keyboard: I’m currently learning Data Analytics. </br>
-    - :speech_balloon: Ask me about anything.</br>
-    - :mailbox: How to reach me: <a href="mailto:youremail@gmail.com">Email me!</a>  </br>
-    - :cloud: Pronouns: She/Her. </br>
-    - :game_die: Drawing and writing are part of me. </br>
-<p>
- 
-### <summary><strong>Let's connect!</strong></summary>
-<a href="https://twitter.com/yours">
-  <img align="left" alt="Goo's Twitter" width="20px" src="https://simpleicons.now.sh/twitter/495f7e" />
-</a>
-<a href="https://www.instagram.com/yours/">
-  <img align="left" alt="Goo's Instagram" width="20px" src="https://simpleicons.now.sh/instagram/495f7e" />
-</a>
-<a href="https://yours.com/">
-  <img align="left" alt="Goo's Blog" width="20px" src="https://simpleicons.now.sh/blogger/495f7e" />
-</a>
+👯 I’m looking to collaborate on:  
+Open-source projects related to computer vision, mobile development (React Native), or cybersecurity.
+
+🤝 I’m looking for help with:  
+Improving model accuracy in hand gesture recognition and efficient mobile UI/UX design.
+
+🌱 I’m currently learning:  
+- Deep Learning for vision tasks  
+- System-level programming in Linux  
+- Firebase integration with React Native
+
+💬 Ask me about:  
+- React Native & TypeScript  
+- Clean architecture and modular code  
+- Ethical hacking basics and wireless network security  
+- How to debug weird phone issues 😅
+
+⚡ Fun fact:  
+I once tried to write on screen using just my hand movements detected by a webcam. It kinda worked... for the letter "O" at least!
