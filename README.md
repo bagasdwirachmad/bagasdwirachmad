@@ -2,6 +2,9 @@
 
 Hi! I’m a self-taught software developer who enjoys turning real-world problems into functional, maintainable solutions. I love learning new tools, but I focus more on using the right tool for the right task. Whether it’s front-end interfaces or back-end logic, I aim for clean, readable code that works — and lasts. I see coding not just as work, but as a creative outlet where I get to build, improve, and sometimes break things (on purpose). I value teamwork, honest feedback, and a well-named variable as much as a good cup of coffee.
 
+<img src="https://media1.tenor.com/m/DnIwMFJgWpQAAAAC/smolverse-smol.gif" width="100%" />
+
+
 
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/_dwiiiwoiii) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/bagasdwirachmad) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:bagasdwirachmad@gmail.com) 
