@@ -1,4 +1,4 @@
-# 💫 About Me:
+# 💫 About Me ![Waving Hand](https://media.tenor.com/0CpFOKGVaeMAAAAi/hand-waving-hand.gif):
 Hi! I’m a self-taught software developer who enjoys turning real-world problems into functional, maintainable solutions. I love learning new tools, but I focus more on using the right tool for the right task. Whether it’s front-end interfaces or back-end logic, I aim for clean, readable code that works — and lasts. I see coding not just as work, but as a creative outlet where I get to build, improve, and sometimes break things (on purpose). I value teamwork, honest feedback, and a well-named variable as much as a good cup of coffee.
 
 
